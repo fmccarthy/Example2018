@@ -1,0 +1,5 @@
+module Example2018
+
+greet() = print("Hello World!")
+
+end # module
